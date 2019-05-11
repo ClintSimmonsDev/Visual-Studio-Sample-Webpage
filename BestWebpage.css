@@ -1,0 +1,32 @@
+﻿body {
+    background-image: url("triangle.jpg");
+    text-align:center;
+}
+    body > p {
+        font-size: 8px;
+        color: #ffffff;
+        text-shadow: 3px 3px 10px #00d8ff;
+    }
+h1 {
+    font-size: 60px;
+    color: #000000;
+    text-shadow: 3px 3px 10px #00d8ff;
+}
+h2 {
+    font-size: 40px;
+    color: #000000;
+    text-shadow: 2px 2px 8px #00d8ff;
+}
+h3 {
+    font-size: 30px;
+    color: #000000;
+    text-shadow: 2px 2px 8px #00d8ff;
+}
+h4 {
+    color: black;
+    text-shadow: 2px 2px 8px #00d8ff;
+}
+h5 {
+    color: black;
+    text-shadow: 2px 2px 8px #00d8ff;
+}
